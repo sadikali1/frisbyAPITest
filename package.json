@@ -1,0 +1,19 @@
+{
+  "name": "swaggerpets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "frisby": "^2.1.2",
+    "jest": "^25.1.0",
+    "jest-junit-reporter": "^1.1.0"
+  },
+  "dependencies": {
+    "jest-junit": "^10.0.0"
+  }
+}
